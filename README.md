@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topkungo&show_icons=true&locale=en" alt="topkungo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topkungo&theme=dark" alt="topkungo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topkungo" alt="topkungo" /></p>
